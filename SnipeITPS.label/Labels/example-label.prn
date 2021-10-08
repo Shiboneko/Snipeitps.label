@@ -1,0 +1,17 @@
+﻿CT~~CD,~CC^~CT~
+^XA~TA000~JSN^LT0^MNW^MTD^PON^PMN^LH0,0^JMA^PR5,5~SD15^JUS^LRN^CI0^XZ
+^XA
+^MMT
+^PW641
+^LL0235
+^LS0
+^FT24,215^BQN,2,6
+^FH\^FDLA,https://snipe.local/hardware/{{ID}}^FS
+^FT216,45^A0N,22,19^FH\^FDProperty of^FS
+^FT216,113^A0N,23,24^FH\^FDName: {{name}}^FS
+^FT216,75^A0N,25,24^FH\^FD{{company}}^FS
+^FT216,135^A0N,17,16^FH\^FDInv.: {{asset_tag}}^FS
+^FT216,156^A0N,17,16^FH\^FD{{model}}^FS
+^FT216,177^A0N,17,16^FH\^FDS/N: {{serial}}^FS
+^FT463,37^A0N,14,14^FB162,1,0,C^FH\^FD{{purchase_date}}^FS
+^PQ1,0,1,Y^XZ
